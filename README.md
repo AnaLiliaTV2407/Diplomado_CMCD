@@ -5,4 +5,6 @@ La carpeta MTCARS: Es la primera tarea del diplomado en la que se incluye la app
 
 La carpeta LIBRERIA_RVEST: Es la segunda tarea del diplomado en la que se describe el uso de una libreia de Rstudio, para seguir practicando en este caso use la libreria "RVEST" para web scraping, también se observa paso a paso para la obtención de unos datos de una página web.
 
+La carpeta Tarea 3_Tote_Ship: Es la tercera tarea del diplomado, en la que se describe una base da datos y se contestas las preguntas precargadas en el archivo de colab.
+
 La carpeta Tarea 4_ Dataset_python: es la cuarta tarea del diplomado en la que se describe la base de datos  y se hacen funciones básicas  para una exploración de datos.
