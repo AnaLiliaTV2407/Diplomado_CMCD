@@ -8,3 +8,5 @@ La carpeta LIBRERIA_RVEST: Es la segunda tarea del diplomado en la que se descri
 La carpeta Tarea 3_Tote_Ship: Es la tercera tarea del diplomado, en la que se describe una base da datos y se contestas las preguntas precargadas en el archivo de colab.
 
 La carpeta Tarea 4_ Dataset_python: es la cuarta tarea del diplomado en la que se describe la base de datos  y se hacen funciones básicas  para una exploración de datos.
+
+La carpeta TArea 5 Modelos PCA y  modelos de Machine Learning, es la quinta tarea del diplomado en la que se describe la base de datos y se hacen las funciones de PCA y Machine Learning en particular  la base de datos que use es Iris
