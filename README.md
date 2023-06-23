@@ -4,7 +4,7 @@
 
 LA CARPETA: NotasDeClaseDCM
 Es la colección de notas que se tiene de este diplomado adjunto un calendario de cuando tome notas y los ejercicios que se vieron.
-
+Las clases que no aparecen es porque fueron exposiciones o clases de una introduccion a tema o lecturas de una presentación.
 
 LA CARPETA: Tareas_DiplomadoCM
 Colección de trabajos y tareas del diplomado Ciencia de datos 2023-1
